@@ -1,0 +1,6 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,total_revenue
+s6,TV Show,Midnight Mass,Mike Flanagan,"Kate Siegel, Zach Gilford, Hamish Linklater, Henry Thomas, Kristin Lehman, Samantha Sloyan, Igby Rigney, Rahul Kohli, Annarah Cymone, Annabeth Gish, Alex Essoe, Rahul Abburi, Matt Biedel, Michael Trucco, Crystal Balint, Louis Oliver",,"September 24, 2021",2021,TV-MA,503
+s49,Movie,Training Day,Antoine Fuqua,"Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger, Harris Yulin, Raymond J. Barry, Cliff Curtis, Dr. Dre, Snoop Dogg, Macy Gray, Eva Mendes",United States,"September 16, 2021",2001,R,996
+s65,Movie,Nightbooks,David Yarovesky,"Winslow Fegley, Lidya Jewett, Krysten Ritter",,"September 15, 2021",2021,TV-PG,977
+s241,Movie,The Witcher: Nightmare of the Wolf,Han Kwang Il,"Theo James, Mary McDonnell, Lara Pulver, Graham McTavish, Tom Canton, David Errigo Jr, Jennifer Hale, Kari Wahlgren, Matt Yang King, Darryl Kurylo, Keith Ferguson",,"August 23, 2021",2021,TV-MA,40
+s334,Movie,Ferris Bueller's Day Off,John Hughes,"Matthew Broderick, Alan Ruck, Mia Sara, Jeffrey Jones, Jennifer Grey, Cindy Pickett, Lyman Ward, Edie McClurg, Charlie Sheen, Kristy Swanson, Ben Stein, Del Close",United States,"August 1, 2021",1986,PG-13,335
